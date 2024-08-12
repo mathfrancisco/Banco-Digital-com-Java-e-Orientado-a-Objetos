@@ -8,7 +8,7 @@ Desenvolveu-se um programa tendo em vista o conhecimento no domínio bancário p
 
 ## 👍 Síntese de conceitos fundamentais da POO  
 
-##🔹Abstração
+##🔹*Abstração*
 <p align="justify">
 Habilidade de se concentrar em aspectos essenciais de um domínio, ignorando características menos importantes ou acidentais. Por isto, objetos são abstrações de entidades existentes no domínio em questão. 
 </p>
@@ -18,7 +18,7 @@ Habilidade de se concentrar em aspectos essenciais de um domínio, ignorando car
 Encapsular é esconder a implementação de objetos, criando interfaces de uso mais concisas e fáceis de usar/entender. O encapsulamento favorece principalmente dois aspectos de um sistema: manutenção e evolução.
 </p>
 
-##🔹Herança
+##🔹*Herança*
 <p align="justify">
 Permite definir uma classe filha que reutiliza (herda), estende ou modifica o comportamento de uma classe pai. A classe cujos membros são herdados é chamada de classe base. A classe que herda os membros da classe base é chamada de classe derivada.
 </p>
