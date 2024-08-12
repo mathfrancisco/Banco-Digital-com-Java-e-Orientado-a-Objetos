@@ -1,21 +1,38 @@
-Banco Digital com Java e Orientação a Objetos
-Desenvolvi um programa para criar um sistema de banco digital utilizando Java e conceitos de Orientação a Objetos. O sistema permite que os clientes criem contas correntes e poupanças, realizem operações bancárias como depósito, saque e transferência entre contas da mesma instituição. Além disso, implementei funcionalidades adicionais, como uma interface para realizar operações, um método para imprimir extratos e outro para mostrar a lista de clientes do banco.
+# 🏦 Criando um Banco Digital com Java e Orientação a Objetos
+</br>
+<p align="justify">
+Desenvolveu-se um programa tendo em vista o conhecimento no domínio bancário para uma solução Orientada a Objetos em Java. Trata-se do sistema de um banco digital que disponibiliza a seus clientes dois tipos de contas (corrente e poupança). Dentre as funcionalidades estão as operações bancárias de depósito, saque e transferência entre contas da própria instituição. Como funcionalidades adicionais implementaram-se: interface com métodos das operações, método para imprimir extratos, método para mostrar lista de clientes do banco. Tecnologias utilizadas: IntelliJ IDEA, OpenJDK Azul Zulu v. 17.0.15, Online Markdown Editor Dillinger. 
+</p>
 
-Tecnologias utilizadas
+---  
 
-IntelliJ IDEA
-OpenJDK Azul Zulu v. 17.0.15
-Online Markdown Editor Dillinger
-Síntese de conceitos fundamentais da POO
+## 👍 Síntese de conceitos fundamentais da POO  
 
-Abstração
-Ao desenvolver o sistema de banco digital, eu me concentrei nos aspectos essenciais do domínio bancário, ignorando características menos importantes ou acidentais. Isso permitiu que eu criasse objetos que representam entidades reais do domínio, como contas e clientes.
+###🔹Abstração
+<p align="justify">
+Habilidade de se concentrar em aspectos essenciais de um domínio, ignorando características menos importantes ou acidentais. Por isto, objetos são abstrações de entidades existentes no domínio em questão. 
+</p>
 
-Encapsulamento
-Para facilitar a manutenção e evolução do sistema, eu usei encapsulamento para esconder a implementação dos objetos e criar interfaces de uso mais concisas e fáceis de usar. Isso permitiu que eu modificasse a implementação dos objetos sem afetar a forma como eles são utilizados pelo resto do sistema.
+### 🔹Encapsulamento
+<p align="justify">
+Encapsular é esconder a implementação de objetos, criando interfaces de uso mais concisas e fáceis de usar/entender. O encapsulamento favorece principalmente dois aspectos de um sistema: manutenção e evolução.
+</p>
 
-Herança
-Ao criar as classes ContaCorrente e ContaPoupanca, eu usei herança para reutilizar o comportamento da classe Conta e estender suas funcionalidades. Isso permitiu que eu criasse classes mais específicas e especializadas sem ter que reescrever todo o código.
+### 🔹Herança
+<p align="justify">
+Permite definir uma classe filha que reutiliza (herda), estende ou modifica o comportamento de uma classe pai. A classe cujos membros são herdados é chamada de classe base. A classe que herda os membros da classe base é chamada de classe derivada.
+</p>
 
-Polimorfismo
-Ao criar a interface OperacaoBancaria, eu usei polimorfismo para permitir que objetos de diferentes classes (como Deposito, Saque e Transferencia) sejam tratados como objetos da mesma classe. Isso permitiu que eu criasse um método que pode ser usado para realizar diferentes operações bancárias sem ter que saber a classe específica do objeto.                      
+### 🔹Polimorfismo
+<p align="justify">
+Capacidade de um objeto ser referenciado de várias formas, ou seja, tratar objetos criados a partir de classes específicas como objetos de uma classe genérica. Entretanto, polimorfismo não quer dizer que o objeto se transforma infinitamente, muito pelo contrário, um objeto nasce de um tipo e morre do mesmo jeito, pois o que pode mudar é o modo de se referir a ele.
+</p>
+
+---
+
+
+## ✍️Autora  
+Matheus Francisco
+Contato: math.francisco2@gmail.com
+
+---  
