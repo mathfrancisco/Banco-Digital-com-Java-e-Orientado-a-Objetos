@@ -31,7 +31,7 @@ Capacidade de um objeto ser referenciado de várias formas, ou seja, tratar obje
 ---
 
 
-## ✍️Autora  
+## ✍️Autor 
 Matheus Francisco
 Contato: math.francisco2@gmail.com
 
